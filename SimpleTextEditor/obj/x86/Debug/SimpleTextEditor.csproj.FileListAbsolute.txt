@@ -1,0 +1,10 @@
+C:\Users\JiaBiao\Documents\Visual Studio 2010\Projects\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+C:\Users\JiaBiao\Documents\Visual Studio 2010\Projects\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+C:\Users\JiaBiao\Documents\Visual Studio 2010\Projects\SimpleTextEditor\SimpleTextEditor\obj\x86\Debug\SimpleTextEditor.FrmEditor.resources
+C:\Users\JiaBiao\Documents\Visual Studio 2010\Projects\SimpleTextEditor\SimpleTextEditor\obj\x86\Debug\SimpleTextEditor.Properties.Resources.resources
+C:\Users\JiaBiao\Documents\Visual Studio 2010\Projects\SimpleTextEditor\SimpleTextEditor\obj\x86\Debug\SimpleTextEditor.csproj.GenerateResource.Cache
+C:\Users\JiaBiao\Documents\Visual Studio 2010\Projects\SimpleTextEditor\SimpleTextEditor\obj\x86\Debug\SimpleTextEditor.exe
+C:\Users\JiaBiao\Documents\Visual Studio 2010\Projects\SimpleTextEditor\SimpleTextEditor\obj\x86\Debug\SimpleTextEditor.pdb
+C:\Users\JiaBiao\Documents\Visual Studio 2010\Projects\SimpleTextEditor\SimpleTextEditor\obj\x86\Debug\SimpleTextEditor.AboutDlg.resources
+C:\Users\JiaBiao\documents\visual studio 2010\Projects\SimpleTextEditor\SimpleTextEditor\obj\x86\Debug\SimpleTextEditor.csprojResolveAssemblyReference.cache
+C:\Users\JiaBiao\documents\visual studio 2010\Projects\SimpleTextEditor\SimpleTextEditor\obj\x86\Debug\SimpleTextEditor.PropDlg.resources
